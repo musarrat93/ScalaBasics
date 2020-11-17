@@ -1,1 +1,2 @@
-# ScalaBasics
+# ScalaExercises
+simple scala based exercises
